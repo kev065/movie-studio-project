@@ -1,4 +1,5 @@
-# Byte-compiled / optimized / DLL files
+data/im.db
+# B yte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
