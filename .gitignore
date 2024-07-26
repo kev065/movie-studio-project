@@ -1,5 +1,7 @@
 data
-# B yte-compiled / optimized / DLL files
+cleaned_data
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
