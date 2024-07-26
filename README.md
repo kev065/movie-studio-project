@@ -45,3 +45,9 @@ The dataset comprises multiple sources offering insights into movies. The `rt.re
 
 * ## This line chart shows the average profit by month of the year. 
 <img src="images/line-profit-month.png" style="width:100%; height:auto;">
+
+
+## For a thorough analysis of this dataset, check out this [notebook](https://github.com/kev065/movie-studio-project/blob/main/index.ipynb)
+
+### Licence
+This project is licenced under the [MIT Licence](https://github.com/kev065/movie-studio-project/blob/main/LICENSE/)
