@@ -49,5 +49,18 @@ The dataset comprises multiple sources offering insights into movies. The `rt.re
 
 ## For a thorough analysis of this dataset, check out this [notebook](https://github.com/kev065/movie-studio-project/blob/main/index.ipynb)
 
+### Team Members
+
+* [Esther Cheruiyot](https://github.com/ECCHERUIYOT)
+
+* [Floyed Muchiri](https://github.com/floyedmuchiri)
+
+* [Patricia Ngari](https://github.com/PatriciaNgari)
+
+* [Michael Achoki](https://github.com/MAchoki)
+
+* [Kelvin Murithi](https://github.com/kev065)
+
 ### Licence
+
 This project is licenced under the [MIT Licence](https://github.com/kev065/movie-studio-project/blob/main/LICENSE/)
