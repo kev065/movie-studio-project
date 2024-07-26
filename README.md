@@ -30,7 +30,7 @@ The dataset comprises multiple sources offering insights into movies. The `rt.re
 <img src="images/genre-combinations.png" style="width:100%; height:auto;">
 
 
-* ## This heatmap shows the genre pairwise co-occurence.
+* ## This heatmap shows the co-occurrence of genres in pairs.
 <img src="images/heatmap-genres.png" style="width:100%; height:auto;">
 
 
